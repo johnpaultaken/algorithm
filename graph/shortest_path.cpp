@@ -1,3 +1,13 @@
+//----------------------------------------------------------------------------
+// year   : 2019
+// author : John Paul
+// email  : johnpaultaken@gmail.com
+// source : https://github.com/johnpaultaken
+// description :
+//      Shortest path from a specified node to other nodes in a graph.
+//      Using BFS, non-negative edge weights, adjacency list graph representation.
+//----------------------------------------------------------------------------
+
 #include <iostream>
 using std::cout;
 
